@@ -5,7 +5,7 @@ I'm an 18-year-old incoming Software Engineering student at Yaşar University, o
 ### 🚀 About Me
 - 🎯 **Areas of Interest:** Deeply passionate about **Artificial Intelligence** and **Cyber Security**. I love exploring how systems work and how to make them smarter and safer.
 - 🏀 **Beyond the Screen:** I played licensed basketball for 9 years, and I still really enjoy hitting the court and playing whenever I get the chance.
-- 🌍 **Languages:** Native Turkish | B1-B2 English (Comfortable in global communications and tech documentation).
+- 🌍 **Languages:** Native Turkish | B2 English (Comfortable in global communications and tech documentation).
 
 ### 🛠️ Tech Stack & Current Focus
 - **Languages:** Python, C
