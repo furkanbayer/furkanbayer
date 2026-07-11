@@ -1,6 +1,6 @@
 # Hi there, I'm Furkan! 👋
 
-I'm an 18-year-old incoming Software Engineering student at Yaşar University, officially starting my freshman year this September. Instead of taking it easy during my gap semester, I'm actively building a rock-solid foundation in computer science by completing Harvard's rigorous CS50x course, focusing heavily on C and Python.
+I am a Software Engineering student at Yaşar University. I focus on building a rock-solid foundation in computer science, core algorithmic logic, and advanced problem-solving. My engineering path is driven by a strong passion for exploring computing principles and mastering software design from the ground up, with a heavy emphasis on C and Python.
 
 ### 🚀 About Me
 - 🎯 **Areas of Interest:** Deeply passionate about **Artificial Intelligence** and **Cyber Security**. I love exploring how systems work and how to make them smarter and safer.
