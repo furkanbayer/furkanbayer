@@ -4,9 +4,8 @@ I am a Software Engineering student at Yaşar University. I focus on building a 
 
 ### 🚀 About Me
 - 🎯 **Areas of Interest:** Deeply passionate about **Artificial Intelligence** and **Cyber Security**. I love exploring how systems work and how to make them smarter and safer.
+- 🌍 **Languages:** Native Turkish | B2 English
 - 🏀 **Beyond the Screen:** I played licensed basketball for 9 years, and I still really enjoy hitting the court and playing whenever I get the chance.
-- 🌍 **Languages:** Native Turkish | B2 English (Comfortable in global communications and tech documentation).
-
 ### 🛠️ Tech Stack & Current Focus
 - **Languages:** Python, C
 - **Currently Learning & Exploring:**
